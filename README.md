@@ -26,3 +26,19 @@
 To improve problem-solving skills and strengthen DSA concepts through consistent practice.
 
 ⭐ Feel free to explore the solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
+<!---LeetCode Topics End-->
