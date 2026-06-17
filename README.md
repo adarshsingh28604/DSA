@@ -78,6 +78,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0101-symmetric-tree](https://github.com/adarshsingh28604/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0101-symmetric-tree](https://github.com/adarshsingh28604/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +94,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0101-symmetric-tree](https://github.com/adarshsingh28604/DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
