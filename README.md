@@ -81,6 +81,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
@@ -93,6 +94,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0101-symmetric-tree](https://github.com/adarshsingh28604/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
@@ -107,6 +109,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
@@ -125,5 +128,6 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
