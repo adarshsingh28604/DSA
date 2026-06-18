@@ -86,6 +86,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0437-path-sum-iii](https://github.com/adarshsingh28604/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -99,6 +100,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0437-path-sum-iii](https://github.com/adarshsingh28604/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -114,6 +116,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0437-path-sum-iii](https://github.com/adarshsingh28604/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
