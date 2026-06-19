@@ -34,6 +34,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -73,6 +74,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Tree
 |  |
 | ------- |
