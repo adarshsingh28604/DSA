@@ -1,20 +1,19 @@
 
 class Solution {
-       public void inorder(TreeNode root,  ArrayList<TreeNode> ans){
-         if(root==null) return;
-         inorder(root.left,ans);
-         ans.add(root);
-         inorder(root.right,ans);
+         int sum=0;
 
+       public void inorder(TreeNode root){
+         if(root==null) return ;
+          inorder(root.right);
+         root.val+=sum;
+         sum=root.val;
+         inorder(root.left);
 
+         
      }
     public TreeNode convertBST(TreeNode root) {
-         ArrayList<TreeNode> ans = new ArrayList<>();
-         inorder( root, ans);
-         int n = ans.size();
-         for(int i = n-2;i>=0;i--){
-            ans.get(i).val += ans.get(i+1).val;
-         }
+    
+         inorder( root);
          return root;
     }
 }
