@@ -111,6 +111,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -135,6 +136,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -168,6 +170,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -212,6 +215,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
