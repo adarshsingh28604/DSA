@@ -36,6 +36,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -208,6 +209,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
