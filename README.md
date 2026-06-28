@@ -47,6 +47,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
@@ -78,6 +79,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
