@@ -37,6 +37,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -96,6 +97,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -230,6 +232,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarshsingh28604/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -245,6 +248,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -286,6 +290,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/adarshsingh28604/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -310,14 +315,20 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
