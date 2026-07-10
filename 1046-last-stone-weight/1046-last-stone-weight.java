@@ -1,17 +1,21 @@
-import java.util.PriorityQueue;
 class Solution {
-    public int lastStoneWeight(int[] stones) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
-        for (int stone : stones) {
-            pq.offer(stone);
-        }
-        while (pq.size() > 1) {
-            int first = pq.poll();
-            int second = pq.poll();
-            if (first != second) {
-                pq.offer(first - second);
-            }
-        }
-        return pq.isEmpty() ? 0 : pq.poll();
+    public int lastStoneWeight(int[] arr) {
+        // ArrayList<Integer> ans = new ArrayList<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+      for(int x : arr){
+        pq.offer(x);
+        // ans.add(x);
+      }
+    while(pq.size()>1){ 
+         int y = pq.remove();
+         int x = pq.remove();
+         if(x != y) {
+             pq.add(y-x);
+         }
+    
+      }
+      if(pq.size()==0) return 0;
+      int finalans = pq.remove();
+      return finalans;
     }
 }
