@@ -1,50 +1,57 @@
-import java.util.*;
-
 class Solution {
-    static class Node {
-        int value;
-        int row;
-        int index;
 
-        Node(int value, int row, int index) {
-            this.value = value;
+    public static class Triplet implements Comparable<Triplet> {
+        int ele;
+        int row;
+        int col;
+
+        Triplet(int ele, int row, int col) {
+            this.ele = ele;
             this.row = row;
-            this.index = index;
+            this.col = col;
+        }
+
+        @Override
+        public int compareTo(Triplet t) {
+            return this.ele - t.ele;
         }
     }
 
     public int[] smallestRange(List<List<Integer>> nums) {
 
-        PriorityQueue<Node> pq = new PriorityQueue<>((a, b) -> a.value - b.value);
+        int[] ans = {0, Integer.MAX_VALUE};
 
+        PriorityQueue<Triplet> pq = new PriorityQueue<>();
+
+        int k = nums.size();
         int max = Integer.MIN_VALUE;
-
-        for (int i = 0; i < nums.size(); i++) {
-            int val = nums.get(i).get(0);
-            pq.offer(new Node(val, i, 0));
-            max = Math.max(max, val);
+        for (int i = 0; i < k; i++) {
+            int ele = nums.get(i).get(0);
+            pq.add(new Triplet(ele, i, 0));
+            max = Math.max(max, ele);
         }
 
-        int start = 0;
-        int end = Integer.MAX_VALUE;
+        while (true) {
 
-        while (pq.size() == nums.size()) {
+            Triplet top = pq.remove();
 
-            Node curr = pq.poll();
-            int min = curr.value;
+            int ele = top.ele;
+            int row = top.row;
+            int col = top.col;
 
-            if (max - min < end - start) {
-                start = min;
-                end = max;
+            // Update answer
+            if (max - ele < ans[1] - ans[0]) {
+                ans[0] = ele;
+                ans[1] = max;
             }
 
-            if (curr.index + 1 < nums.get(curr.row).size()) {
-                int nextVal = nums.get(curr.row).get(curr.index + 1);
-                pq.offer(new Node(nextVal, curr.row, curr.index + 1));
-                max = Math.max(max, nextVal);
-            }
+            // If this list ends, no further valid range exists
+            if (col == nums.get(row).size() - 1)
+                break;
+            int next = nums.get(row).get(col + 1);
+            max = Math.max(max, next);
+            pq.add(new Triplet(next, row, col + 1));
         }
-
-        return new int[]{start, end};
+        return ans;
     }
 }
