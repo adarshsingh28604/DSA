@@ -10,8 +10,6 @@ class Solution {
             this.row = row;
             this.col = col;
         }
-
-        @Override
         public int compareTo(Triplet t) {
             return this.ele - t.ele;
         }
