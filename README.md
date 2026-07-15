@@ -41,6 +41,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -121,6 +122,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
