@@ -55,6 +55,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/adarshsingh28604/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adarshsingh28604/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -126,6 +127,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1991-find-the-middle-index-in-array](https://github.com/adarshsingh28604/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Tree
 |  |
 | ------- |
