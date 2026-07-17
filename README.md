@@ -60,6 +60,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1991-find-the-middle-index-in-array](https://github.com/adarshsingh28604/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adarshsingh28604/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -124,6 +125,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,6 +136,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1991-find-the-middle-index-in-array](https://github.com/adarshsingh28604/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Tree
 |  |
@@ -303,11 +306,13 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
