@@ -1,25 +1,25 @@
 class Solution {
-    public int[] answerQueries(int[] nums, int[] queries) {
-        int[] ans = new int[queries.length];
+    public int[] answerQueries(int[] arr, int[] queries) {
+        Arrays.sort(arr);
+       int n = arr.length;
+       int m = queries.length;
+        int[] ans = new int[m];
 
-        for (int i = 0; i < queries.length; i++) {
-            int[] temp = nums.clone();
-            Arrays.sort(temp);
-
-            int sum = 0;
-            int count = 0;
-
-            for (int x : temp) {
-                if (sum + x <= queries[i]) {
-                    sum += x;
-                    count++;
-                } else {
-                    break;
-                }
-            }
-
-            ans[i] = count;
+        for(int i = 1;i<n;i++){
+            arr[i] += arr[i-1];
         }
+        for(int i = 0 ; i < m ; i++){
+        int low = 0 , high = n-1;
+        while(low<=high){
+            int mid = low + (high - low)/2; 
+            if(arr[mid] > queries[i]) high = mid - 1;
+            else {
+                ans[i] = Math.max(ans[i],mid+1);
+                low = mid+1;
+            }
+        }
+        }
+
 
         return ans;
     }
