@@ -6,10 +6,13 @@ class Solution {
             int last = arr[i][1];
             int seats = arr[i][2];
 
-            for(int j = first-1 ; j<= last-1 ; j++){
-                ans[j] += seats;
-            }
+            ans[first-1] += seats;
+        if(last<n)    ans[last+1-1] -= seats;
+
         }
+            for(int j = 1 ; j<ans.length ; j++){
+                ans[j] += ans[j-1];
+            }
         return ans;
     }
 }
