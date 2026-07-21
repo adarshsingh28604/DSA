@@ -72,6 +72,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -358,6 +359,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -407,4 +409,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
