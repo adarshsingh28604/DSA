@@ -50,6 +50,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/adarshsingh28604/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/adarshsingh28604/DSA/tree/master/1046-last-stone-weight) |
 | [1109-corporate-flight-bookings](https://github.com/adarshsingh28604/DSA/tree/master/1109-corporate-flight-bookings) |
@@ -120,6 +121,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/adarshsingh28604/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/adarshsingh28604/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshsingh28604/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adarshsingh28604/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -149,6 +151,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/adarshsingh28604/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/adarshsingh28604/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/adarshsingh28604/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -325,6 +328,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0713-subarray-product-less-than-k](https://github.com/adarshsingh28604/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/adarshsingh28604/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
