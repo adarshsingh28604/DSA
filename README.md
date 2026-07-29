@@ -48,6 +48,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/adarshsingh28604/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/adarshsingh28604/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -449,6 +450,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adarshsingh28604/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
