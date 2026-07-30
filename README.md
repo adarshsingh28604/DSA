@@ -34,6 +34,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -455,6 +456,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
@@ -473,6 +475,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
