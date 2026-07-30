@@ -62,6 +62,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1109-corporate-flight-bookings](https://github.com/adarshsingh28604/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adarshsingh28604/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/adarshsingh28604/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshsingh28604/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshsingh28604/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -459,6 +460,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adarshsingh28604/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
@@ -472,4 +474,5 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
