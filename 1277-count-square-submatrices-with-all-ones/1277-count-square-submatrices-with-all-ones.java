@@ -1,35 +1,19 @@
 class Solution {
     public int countSquares(int[][] arr) {
-        int m = arr.length;
-        int n = arr[0].length;
+        int m = arr.length, n = arr[0].length;
         int count = 0;
-
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-
-                int maxSize = Math.min(m - i, n - j);
-
-                for (int size = 1; size <= maxSize; size++) {
-
-                    boolean allOnes = true;
-
-                    for (int r = i; r < i + size && allOnes; r++) {
-                        for (int c = j; c < j + size; c++) {
-                            if (arr[r][c] == 0) {
-                                allOnes = false;
-                                break;
-                            }
-                        }
-                    }
-
-                    if (allOnes)
-                        count++;
-                    else
-                        break;
+                if (arr[i][j] == 0) continue;
+                if (i > 0 && j > 0) {
+                    arr[i][j] += min(arr[i - 1][j], arr[i][j - 1], arr[i - 1][j - 1]);
                 }
+                count += arr[i][j];
             }
         }
-
         return count;
+    }
+    private int min(int a, int b, int c) {
+        return Math.min(a, Math.min(b, c));
     }
 }
