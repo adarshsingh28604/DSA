@@ -1,21 +1,30 @@
 class Solution {
+    static int sum;
+        public int ways(int i , int[] arr , int res  ,int target , int[][] dp){
+            if(i==arr.length){
+                if(res == target) return 1;
+                else return 0;
+            }
 
-    public int solve(int i, int[] nums, int target) {
+            if(dp[i][res+sum]!=-1) return dp[i][res+sum];
+            int add = ways(i+1,arr,res+arr[i], target , dp );
+            int sub = ways(i+1,arr,res-arr[i], target , dp );
 
-        if (i == nums.length) {
-            if (target == 0)
-                return 1;
-            return 0;
+            return dp[i][res+sum] = add + sub;
+
         }
-
-        int plus = solve(i + 1, nums, target - nums[i]);
-
-        int minus = solve(i + 1, nums, target + nums[i]);
-
-        return plus + minus;
-    }
-
-    public int findTargetSumWays(int[] nums, int target) {
-        return solve(0, nums, target);
+    public int findTargetSumWays(int[] arr, int target) {
+        sum =  0;
+        int n = arr.length;
+        for(int ele: arr){
+            sum +=ele;
+        }
+        int [][] dp = new int[n][2*sum+1];
+            for (int i = 0; i < dp.length; i++) {
+            for (int j = 0; j < dp[0].length; j++) {
+                dp[i][j] = -1;
+            }
+        }
+           return ways(0,arr,0,target,dp);
     }
 }
