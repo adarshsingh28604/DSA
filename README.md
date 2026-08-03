@@ -45,6 +45,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/adarshsingh28604/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/adarshsingh28604/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -291,6 +292,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0199-binary-tree-right-side-view](https://github.com/adarshsingh28604/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarshsingh28604/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Backtracking
@@ -466,6 +468,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
