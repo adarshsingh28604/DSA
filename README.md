@@ -49,6 +49,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
@@ -301,6 +302,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,6 +473,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -493,9 +496,11 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
