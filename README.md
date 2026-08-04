@@ -96,6 +96,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshsingh28604/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -482,6 +483,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -517,5 +519,6 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
