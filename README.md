@@ -499,11 +499,13 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
