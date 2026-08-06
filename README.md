@@ -79,6 +79,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/adarshsingh28604/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshsingh28604/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/adarshsingh28604/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -111,6 +112,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
