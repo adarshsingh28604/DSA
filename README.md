@@ -201,6 +201,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/adarshsingh28604/DSA/tree/master/0100-same-tree) |
@@ -266,6 +267,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/adarshsingh28604/DSA/tree/master/0100-same-tree) |
@@ -356,6 +358,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -398,6 +401,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -493,6 +497,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/adarshsingh28604/DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
