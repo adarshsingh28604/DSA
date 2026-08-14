@@ -548,4 +548,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/adarshsingh28604/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/1143-longest-common-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
