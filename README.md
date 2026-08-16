@@ -36,6 +36,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adarshsingh28604/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
@@ -324,6 +325,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
@@ -568,4 +570,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
