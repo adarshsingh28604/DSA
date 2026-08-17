@@ -44,6 +44,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/adarshsingh28604/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
@@ -105,6 +106,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/adarshsingh28604/DSA/tree/master/0072-edit-distance) |
+| [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -164,6 +166,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -393,6 +396,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adarshsingh28604/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
