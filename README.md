@@ -97,6 +97,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adarshsingh28604/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -127,6 +128,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -274,6 +276,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarshsingh28604/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
@@ -551,6 +555,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adarshsingh28604/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Knapsack Problem
 |  |
 | ------- |
