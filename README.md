@@ -36,6 +36,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adarshsingh28604/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/adarshsingh28604/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adarshsingh28604/DSA/tree/master/0053-maximum-subarray) |
@@ -330,6 +331,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/adarshsingh28604/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
