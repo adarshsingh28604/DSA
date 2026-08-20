@@ -70,6 +70,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/adarshsingh28604/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adarshsingh28604/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/adarshsingh28604/DSA/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/adarshsingh28604/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -182,6 +183,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adarshsingh28604/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adarshsingh28604/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/adarshsingh28604/DSA/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/adarshsingh28604/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -408,6 +410,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adarshsingh28604/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adarshsingh28604/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
