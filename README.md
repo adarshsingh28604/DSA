@@ -103,6 +103,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
+| [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -362,6 +363,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -441,6 +443,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## Recursion
 |  |
 | ------- |
