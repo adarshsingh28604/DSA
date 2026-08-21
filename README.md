@@ -66,6 +66,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adarshsingh28604/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/adarshsingh28604/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
@@ -356,6 +357,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/adarshsingh28604/DSA/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshsingh28604/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adarshsingh28604/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -414,6 +416,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adarshsingh28604/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -437,6 +440,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
+| [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adarshsingh28604/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
