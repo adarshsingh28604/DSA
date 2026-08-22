@@ -59,6 +59,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +185,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
@@ -419,6 +421,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshsingh28604/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
@@ -549,6 +552,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
