@@ -64,6 +64,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/adarshsingh28604/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/adarshsingh28604/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/adarshsingh28604/DSA/tree/master/0724-find-pivot-index) |
@@ -188,6 +189,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/adarshsingh28604/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adarshsingh28604/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
@@ -424,6 +426,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/adarshsingh28604/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adarshsingh28604/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -557,6 +560,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/adarshsingh28604/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/adarshsingh28604/DSA/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshsingh28604/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/adarshsingh28604/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -609,6 +613,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/adarshsingh28604/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Algorithm X
 |  |
 | ------- |
