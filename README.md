@@ -458,6 +458,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/adarshsingh28604/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adarshsingh28604/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshsingh28604/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
 |  |
