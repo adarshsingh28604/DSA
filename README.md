@@ -40,6 +40,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adarshsingh28604/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adarshsingh28604/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
@@ -176,6 +177,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -612,4 +614,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
