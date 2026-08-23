@@ -54,6 +54,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/adarshsingh28604/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/adarshsingh28604/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
@@ -490,6 +491,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0136-single-number](https://github.com/adarshsingh28604/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/adarshsingh28604/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarshsingh28604/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
