@@ -462,6 +462,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adarshsingh28604/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -498,6 +499,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [1310-xor-queries-of-a-subarray](https://github.com/adarshsingh28604/DSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarshsingh28604/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
