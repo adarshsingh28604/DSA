@@ -502,6 +502,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adarshsingh28604/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/adarshsingh28604/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Two Pointers
 |  |
 | ------- |
