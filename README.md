@@ -112,6 +112,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
@@ -382,6 +383,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
