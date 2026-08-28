@@ -453,6 +453,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
@@ -494,6 +495,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/adarshsingh28604/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/adarshsingh28604/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adarshsingh28604/DSA/tree/master/0191-number-of-1-bits) |
