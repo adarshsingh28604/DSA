@@ -295,6 +295,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/adarshsingh28604/DSA/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/adarshsingh28604/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adarshsingh28604/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -354,6 +355,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarshsingh28604/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/adarshsingh28604/DSA/tree/master/0841-keys-and-rooms) |
 | [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
@@ -666,4 +668,5 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/adarshsingh28604/DSA/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
