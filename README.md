@@ -115,6 +115,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adarshsingh28604/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## String
@@ -398,6 +399,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adarshsingh28604/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
