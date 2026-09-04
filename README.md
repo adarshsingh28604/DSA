@@ -119,6 +119,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarshsingh28604/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/adarshsingh28604/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2389-longest-subsequence-with-limited-sum](https://github.com/adarshsingh28604/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/adarshsingh28604/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3903-smallest-stable-index-i](https://github.com/adarshsingh28604/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
 | ------- |
