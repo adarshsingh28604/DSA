@@ -378,6 +378,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -481,6 +482,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -603,6 +605,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshsingh28604/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
