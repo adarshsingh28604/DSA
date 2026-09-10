@@ -483,6 +483,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -528,6 +529,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
 | [1310-xor-queries-of-a-subarray](https://github.com/adarshsingh28604/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
