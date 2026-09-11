@@ -1,44 +1,41 @@
 class Solution {
 
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinish(int n, int[][] pre) {
 
         List<List<Integer>> adj = new ArrayList<>();
 
-        for (int i = 0; i < numCourses; i++) {
+        for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
-
-        for (int[] edge : prerequisites) {
-            adj.get(edge[1]).add(edge[0]);
+        int[] indegree = new int[n];
+        boolean[] visited = new boolean[n];
+        for(int i = 0; i < pre.length;i++){
+            int a = pre[i][0] , b = pre[i][1];
+            adj.get(b).add(a);;
+            indegree[a]++;
         }
+        // kahn's algo
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> ans =  new ArrayList<>();
 
-        int[] vis = new int[numCourses];
-
-        for (int i = 0; i < numCourses; i++) {
-
-            if (vis[i] == 0) {
-                if (dfs(i, adj, vis)) {
-                    return false;
+        for(int i = 0; i < n ; i++){
+            if(indegree[i] == 0){
+                q.add(i);
+                visited[i]=false;
+            }
+        }
+        while(q.size()>0){
+            int front = q.remove();
+            ans.add(front);
+            for(int ele: adj.get(front)){
+                indegree[ele]--;
+                if(indegree[ele]==0){
+                    q.add(ele);
+                    visited[ele] = true;
                 }
             }
         }
-        return true;
-    }
-    public boolean dfs(int node, List<List<Integer>> adj, int[] vis) {
-        if (vis[node] == 1) {
-            return true; 
-        }
-        if (vis[node] == 2) {
-            return false;
-        }
-        vis[node] = 1;
-        for (int next : adj.get(node)) {
-            if (dfs(next, adj, vis)) {
-                return true;
-            }
-        }
-        vis[node] = 2;
-
-        return false;
+      if(ans.size()==n) return true;
+      else return false;
     }
 }
