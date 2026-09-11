@@ -470,6 +470,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshsingh28604/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/adarshsingh28604/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -511,6 +512,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adarshsingh28604/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/adarshsingh28604/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
