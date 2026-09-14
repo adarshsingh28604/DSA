@@ -491,6 +491,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/adarshsingh28604/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adarshsingh28604/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -573,6 +574,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/adarshsingh28604/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
