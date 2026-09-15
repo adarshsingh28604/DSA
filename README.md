@@ -303,6 +303,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0538-convert-bst-to-greater-tree](https://github.com/adarshsingh28604/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/adarshsingh28604/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/adarshsingh28604/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -369,6 +370,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarshsingh28604/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/adarshsingh28604/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/adarshsingh28604/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/adarshsingh28604/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -562,6 +564,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adarshsingh28604/DSA/tree/master/1046-last-stone-weight) |
@@ -708,6 +711,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0207-course-schedule](https://github.com/adarshsingh28604/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adarshsingh28604/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/adarshsingh28604/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/adarshsingh28604/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/adarshsingh28604/DSA/tree/master/0841-keys-and-rooms) |
@@ -754,4 +758,12 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/adarshsingh28604/DSA/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adarshsingh28604/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
