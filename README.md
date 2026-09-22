@@ -54,6 +54,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0209-minimum-size-subarray-sum](https://github.com/adarshsingh28604/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/adarshsingh28604/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adarshsingh28604/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -196,6 +197,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/adarshsingh28604/DSA/tree/master/0414-third-maximum-number) |
@@ -398,6 +400,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
