@@ -1,0 +1,45 @@
+class Solution {
+    public List<String> letterCombinations(String digits) {
+
+        List<String> ans = new ArrayList<>();
+
+        if (digits.length() == 0) {
+            return ans;
+        }
+
+        String[] map = {
+            "", "", "abc", "def", "ghi",
+            "jkl", "mno", "pqrs", "tuv", "wxyz"
+        };
+
+        backtrack(digits, 0, "", ans, map);
+
+        return ans;
+    }
+
+    public void backtrack(String digits, int index, String current,
+                           List<String> ans, String[] map) {
+
+        // saare digits process ho gaye
+        if (index == digits.length()) {
+            ans.add(current);
+            return;
+        }
+
+        // current digit
+        int digit = digits.charAt(index) - '0';
+
+        // us digit ke saare characters
+        String letters = map[digit];
+
+        for (char ch : letters.toCharArray()) {
+            backtrack(
+                digits,
+                index + 1,
+                current + ch,
+                ans,
+                map
+            );
+        }
+    }
+}
