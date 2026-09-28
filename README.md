@@ -134,6 +134,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/adarshsingh28604/DSA/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
@@ -504,6 +505,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
