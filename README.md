@@ -67,6 +67,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0435-non-overlapping-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adarshsingh28604/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -168,6 +169,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/adarshsingh28604/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adarshsingh28604/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -411,6 +413,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adarshsingh28604/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshsingh28604/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshsingh28604/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -490,6 +493,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
