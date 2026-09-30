@@ -133,6 +133,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0014-longest-common-prefix](https://github.com/adarshsingh28604/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshsingh28604/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/adarshsingh28604/DSA/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -163,6 +164,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshsingh28604/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -634,6 +636,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshsingh28604/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/adarshsingh28604/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adarshsingh28604/DSA/tree/master/0063-unique-paths-ii) |
@@ -825,4 +828,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshsingh28604/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
