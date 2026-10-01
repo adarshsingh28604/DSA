@@ -1,52 +1,55 @@
 class Solution {
+    int[] parent;
+    int[] size;
 
-    public boolean dfs(int node, int target, ArrayList<Integer>[] graph,
-                       boolean[] visited) {
-
-        if (node == target) {
-            return true;
+    public int find(int x) {
+        if (parent[x] == x) {
+            return x;
         }
 
-        visited[node] = true;
-
-        for (int next : graph[node]) {
-            if (!visited[next]) {
-                if (dfs(next, target, graph, visited)) {
-                    return true;
-                }
-            }
-        }
-
-        return false;
+        return parent[x] = find(parent[x]); 
     }
+    public boolean union(int u, int v) {
+        int pu = find(u);
+        int pv = find(v);
 
+        if (pu == pv) {
+            return false;
+        }
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+
+        return true;
+    }
     public int[] findRedundantConnection(int[][] edges) {
 
         int n = edges.length;
 
-        ArrayList<Integer>[] graph = new ArrayList[n + 1];
+        parent = new int[n + 1];
+        size = new int[n + 1];
 
         for (int i = 1; i <= n; i++) {
-            graph[i] = new ArrayList<>();
+            parent[i] = i;
+            size[i] = 1;
         }
 
-        for (int[] edge : edges) {
+        int[] ans = new int[2];
 
-            int u = edge[0];
-            int v = edge[1];
+        for (int[] arr : edges) {
 
-            boolean[] visited = new boolean[n + 1];
-
-            // Agar already connected hain → ye edge redundant hai
-            if (dfs(u, v, graph, visited)) {
-                return new int[]{u, v};
+            int u = arr[0];
+            int v = arr[1];
+            if (!union(u, v)) {
+                ans[0] = u;
+                ans[1] = v;
+                break;
             }
-
-            // Otherwise edge add karo
-            graph[u].add(v);
-            graph[v].add(u);
         }
-
-        return new int[0];
+        return ans;
     }
 }
