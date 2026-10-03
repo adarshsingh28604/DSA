@@ -139,6 +139,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/adarshsingh28604/DSA/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -416,6 +417,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adarshsingh28604/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/adarshsingh28604/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/adarshsingh28604/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
