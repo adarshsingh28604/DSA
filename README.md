@@ -141,6 +141,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/adarshsingh28604/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/adarshsingh28604/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -585,6 +586,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/adarshsingh28604/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/adarshsingh28604/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/adarshsingh28604/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
