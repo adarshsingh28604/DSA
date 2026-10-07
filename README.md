@@ -140,6 +140,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/adarshsingh28604/DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/adarshsingh28604/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
@@ -388,6 +389,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0210-course-schedule-ii](https://github.com/adarshsingh28604/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/adarshsingh28604/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/adarshsingh28604/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarshsingh28604/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/adarshsingh28604/DSA/tree/master/0547-number-of-provinces) |
@@ -408,6 +410,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/adarshsingh28604/DSA/tree/master/0494-target-sum) |
 ## Hash Table
