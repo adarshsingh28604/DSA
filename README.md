@@ -408,6 +408,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshsingh28604/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/adarshsingh28604/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/adarshsingh28604/DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/adarshsingh28604/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/adarshsingh28604/DSA/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0301-remove-invalid-parentheses) |
