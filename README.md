@@ -846,4 +846,8 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/adarshsingh28604/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
