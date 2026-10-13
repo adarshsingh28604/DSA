@@ -156,6 +156,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2483-minimum-penalty-for-a-shop](https://github.com/adarshsingh28604/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/adarshsingh28604/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -595,6 +596,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3794-reverse-string-prefix](https://github.com/adarshsingh28604/DSA/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
