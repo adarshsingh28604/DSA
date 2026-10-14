@@ -157,6 +157,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/adarshsingh28604/DSA/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/adarshsingh28604/DSA/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
