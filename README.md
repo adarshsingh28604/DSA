@@ -47,6 +47,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/adarshsingh28604/DSA/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
@@ -423,6 +424,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshsingh28604/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adarshsingh28604/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/adarshsingh28604/DSA/tree/master/0290-word-pattern) |
@@ -523,6 +525,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0062-unique-paths](https://github.com/adarshsingh28604/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
@@ -620,6 +623,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/adarshsingh28604/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -853,4 +857,12 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/adarshsingh28604/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
