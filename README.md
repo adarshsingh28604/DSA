@@ -516,6 +516,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshsingh28604/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/adarshsingh28604/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
 ## Math
 |  |
 | ------- |
@@ -532,6 +533,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/adarshsingh28604/DSA/tree/master/0836-rectangle-overlap) |
@@ -865,4 +867,12 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
