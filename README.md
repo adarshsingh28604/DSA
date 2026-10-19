@@ -119,6 +119,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/adarshsingh28604/DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/adarshsingh28604/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adarshsingh28604/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -167,6 +168,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -446,6 +448,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarshsingh28604/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adarshsingh28604/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adarshsingh28604/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adarshsingh28604/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -517,6 +520,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshsingh28604/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/adarshsingh28604/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -616,6 +620,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0912-sort-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/adarshsingh28604/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/adarshsingh28604/DSA/tree/master/1046-last-stone-weight) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -876,4 +881,12 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshsingh28604/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
