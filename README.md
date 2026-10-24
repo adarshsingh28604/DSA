@@ -125,6 +125,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adarshsingh28604/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/adarshsingh28604/DSA/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/adarshsingh28604/DSA/tree/master/3866-first-unique-even-element) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/adarshsingh28604/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarshsingh28604/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adarshsingh28604/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String
@@ -575,6 +576,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/adarshsingh28604/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/adarshsingh28604/DSA/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
