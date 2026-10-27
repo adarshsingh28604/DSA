@@ -38,6 +38,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/adarshsingh28604/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/adarshsingh28604/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/adarshsingh28604/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/adarshsingh28604/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adarshsingh28604/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshsingh28604/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/adarshsingh28604/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/adarshsingh28604/DSA/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -214,6 +216,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adarshsingh28604/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adarshsingh28604/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -426,6 +429,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0001-two-sum](https://github.com/adarshsingh28604/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshsingh28604/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshsingh28604/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/adarshsingh28604/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/adarshsingh28604/DSA/tree/master/0217-contains-duplicate) |
