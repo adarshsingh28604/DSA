@@ -149,6 +149,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0301-remove-invalid-parentheses](https://github.com/adarshsingh28604/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/adarshsingh28604/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarshsingh28604/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/adarshsingh28604/DSA/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adarshsingh28604/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -546,6 +547,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0357-count-numbers-with-unique-digits](https://github.com/adarshsingh28604/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/adarshsingh28604/DSA/tree/master/0382-linked-list-random-node) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarshsingh28604/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/adarshsingh28604/DSA/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/adarshsingh28604/DSA/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/adarshsingh28604/DSA/tree/master/0836-rectangle-overlap) |
@@ -595,6 +597,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0260-single-number-iii](https://github.com/adarshsingh28604/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/adarshsingh28604/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/adarshsingh28604/DSA/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adarshsingh28604/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1310-xor-queries-of-a-subarray](https://github.com/adarshsingh28604/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/adarshsingh28604/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
