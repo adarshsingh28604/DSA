@@ -157,6 +157,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1092-shortest-common-supersequence](https://github.com/adarshsingh28604/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adarshsingh28604/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshsingh28604/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/adarshsingh28604/DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adarshsingh28604/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -618,6 +619,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0658-find-k-closest-elements](https://github.com/adarshsingh28604/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/adarshsingh28604/DSA/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adarshsingh28604/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/adarshsingh28604/DSA/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/adarshsingh28604/DSA/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
 |  |
