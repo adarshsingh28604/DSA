@@ -897,6 +897,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1148-article-views-i](https://github.com/adarshsingh28604/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adarshsingh28604/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adarshsingh28604/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/adarshsingh28604/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/adarshsingh28604/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adarshsingh28604/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Euclidean Algorithm
