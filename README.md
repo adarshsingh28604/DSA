@@ -902,6 +902,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1661-average-time-of-process-per-machine](https://github.com/adarshsingh28604/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/adarshsingh28604/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adarshsingh28604/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/adarshsingh28604/DSA/tree/master/1934-confirmation-rate) |
 ## Euclidean Algorithm
 |  |
 | ------- |
