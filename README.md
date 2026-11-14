@@ -895,6 +895,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0577-employee-bonus](https://github.com/adarshsingh28604/DSA/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adarshsingh28604/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/adarshsingh28604/DSA/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/adarshsingh28604/DSA/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/adarshsingh28604/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/adarshsingh28604/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adarshsingh28604/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
