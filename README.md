@@ -165,6 +165,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshsingh28604/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/adarshsingh28604/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adarshsingh28604/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/adarshsingh28604/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -175,6 +176,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/adarshsingh28604/DSA/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/adarshsingh28604/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adarshsingh28604/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshsingh28604/DSA/tree/master/3498-reverse-degree-of-a-string) |
