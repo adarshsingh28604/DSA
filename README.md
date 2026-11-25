@@ -50,6 +50,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshsingh28604/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/adarshsingh28604/DSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh28604/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshsingh28604/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/adarshsingh28604/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/adarshsingh28604/DSA/tree/master/0198-house-robber) |
@@ -190,6 +191,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshsingh28604/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshsingh28604/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh28604/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/adarshsingh28604/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adarshsingh28604/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/adarshsingh28604/DSA/tree/master/0496-next-greater-element-i) |
@@ -553,6 +555,7 @@ To improve problem-solving skills and strengthen DSA concepts through consistent
 | [0066-plus-one](https://github.com/adarshsingh28604/DSA/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/adarshsingh28604/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/adarshsingh28604/DSA/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adarshsingh28604/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/adarshsingh28604/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/adarshsingh28604/DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/adarshsingh28604/DSA/tree/master/0279-perfect-squares) |
